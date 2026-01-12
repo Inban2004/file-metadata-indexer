@@ -1,0 +1,11 @@
+# sensitive files
+.env 
+
+#  folder 
+env/
+__pycache__/
+
+# file 
+test.py
+
+
